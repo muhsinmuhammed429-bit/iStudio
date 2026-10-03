@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://https://muhsinmuhammed429-bit.github.io/iStudio//sitemap.xml
